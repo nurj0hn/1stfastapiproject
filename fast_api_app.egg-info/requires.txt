@@ -1,0 +1,6 @@
+fastapi==0.75.1
+uvicorn==0.15.0
+SQLAlchemy==1.4.35
+pytest==7.1.1
+requests==2.27.1
+alembic==1.7.7
